@@ -5,6 +5,16 @@
   text-align: center;
 }
 
+.dropdown-select{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    height: 200px;
+    background: lightblue;
+    border: 1px solid #d5d2d2;
+    border-radius: 14px;
+}
 .select-btn{
   background-color: #d5d2d2;
 }
